@@ -1,0 +1,8 @@
+/* Данный файл отвечает за стили index.html */
+
+
+
+.space-cards{
+    display: grid;
+    grid-template-columns: repeat(3, 75vh);
+}
